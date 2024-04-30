@@ -1,0 +1,26 @@
+{
+  "name": "chelseaback",
+  "version": "1.0.0",
+  "description": "le back end de l'application du projet de Chelsea",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Delta2004419/chelseaBack.git"
+  },
+  "author": "Delta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Delta2004419/chelseaBack/issues"
+  },
+  "homepage": "https://github.com/Delta2004419/chelseaBack#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql": "^2.18.1",
+    "sequelize": "^6.37.3",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
